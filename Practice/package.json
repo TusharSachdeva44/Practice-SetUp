@@ -1,0 +1,28 @@
+{
+  "name": "maa ki chut",
+  "version": "1.0.0",
+  "description": "teri maa ki chut lund bhosdike gand ki papdi",
+  "main": "lund.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/lund.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar motherfucking Sachdeva",
+  "license": "ISC",
+  "keywords": [
+    "gaali",
+    "gaali de rahe hai",
+    "bhosdike",
+    "lund",
+    "gand ki papdi"
+  ],
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
